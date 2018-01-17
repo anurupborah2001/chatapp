@@ -1,0 +1,25 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": " A chat appliccation built with node , mongodb, express and socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anurupborah2001/chatapp.git"
+  },
+  "keywords": [
+    "chat",
+    "app",
+    "nodejs",
+    "chat"
+  ],
+  "author": "Anurup Borah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anurupborah2001/chatapp/issues"
+  },
+  "homepage": "https://github.com/anurupborah2001/chatapp#readme"
+}
